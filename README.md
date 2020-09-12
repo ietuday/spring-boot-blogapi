@@ -9,7 +9,7 @@ Build Restful CRUD API for a blog using Spring Boot, Mysql, JPA and Hibernate.
 **1. Clone the application**
 
 ```bash
-git clone https://github.com/coma123/Spring-Boot-Blog-REST-API.git
+git clone https://github.com/ietuday/spring-boot-blogapi.git
 ```
 
 **2. Create Mysql database**
